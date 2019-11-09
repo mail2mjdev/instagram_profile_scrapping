@@ -1,0 +1,6 @@
+https://www.instagram.com/graphql/query/?
+query_hash	2c5d4d8b70cad329c4a6ebe3abb6eedd
+2c5d4d8b70cad329c4a6ebe3abb6eedd
+
+encode variables : , =
+variables {"id":"12126220","first":12,"after":"QVFEOUQ3UVFQLVRTQzVLZGxLR2UyY1lIUUhXWWZfY2JyWlhYekI1NUZ0YVExd2lDNDd1UUwyU09Ja3BPcUsxd1czMTJmWG1YeExqM3hWVThmcHN6a3NKQQ=="}
